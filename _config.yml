@@ -20,11 +20,8 @@ author: COMBO team
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About Us: "aboutus"
+  Meet the Team: "meettheteam"
 
 ################
 # --- Logo --- #
@@ -279,7 +276,7 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "mkiravn/COMBO-website" # any file that's not a post will be a "page" layout by default may have screwed up 
+      path: "" # any file that's not a post will be a "page" layout by default may have screwed up 
     values:
       layout: "page"
 
