@@ -2,7 +2,6 @@
 layout: page
 title: About COMBO
 subtitle: Who are we?
-title: Home
 menu: main
 weight: 10
 ---
