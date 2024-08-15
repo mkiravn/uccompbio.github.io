@@ -2,6 +2,9 @@
 layout: page
 title: About COMBO
 subtitle: Who are we?
+title: Home
+menu: main
+weight: 10
 ---
 
 Hello! We are a group of graduate students, postdocs, researchers, and professors at the University of Chicago passoniate about sharing our love of computational biology with Chicago area middle and high school students!
