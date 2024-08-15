@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Meet the team
+menu: main
+weight: 10
 ---
 
 # Meet our leadership team!
