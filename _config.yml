@@ -20,8 +20,9 @@ author: COMBO team
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
-  Team: "meettheteam"
+  About:
+    About Us: "aboutus"
+    Team: "meettheteam"
   Events: "events"
   Workshops: "workshops"
   Contact Us: "contact"
@@ -100,7 +101,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "UCComBO.com"
+# url-pretty: "COMBO-website.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
@@ -137,20 +138,20 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#FF7A7A"
-hover-col: "#C41E3A"
+hover-col: "#FFFFFF"
 navbar-col: "#FF7A7A"
 navbar-text-col: "#404040"
 navbar-border-col: "#FFABAB"
 footer-col: "#FF7A7A"
 footer-text-col: "#404040"
 footer-link-col: "#404040"
-footer-hover-col: "	#FFFFFF"
+footer-hover-col: "#C41E3A"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
 #navbar-img: "/assets/img/Logo design.png"
-footer-img: "/assets/img/Combo background.png"
+#footer-img: "/assets/img/Combo background.png"
 # page-img: "/assets/img/Combo background.png"
 
 # Suggest a colour for mobile browsers to use as the browser's theme. This is only supported by a few mobile browsers.
