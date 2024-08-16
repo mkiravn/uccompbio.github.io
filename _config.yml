@@ -21,8 +21,7 @@ author: COMBO team
 
 navbar-links:
   About Us: "aboutus"
-  Meet the Team: "meettheteam"
-  Newsletters: "news"
+  Team: "meettheteam"
   Events: "events"
   Workshops: "workshops"
   Contact Us: "contact"
