@@ -10,7 +10,7 @@ weight: 10
 ## Maggie Steiner
 ### Director
 
-<img src="assets/img/maggie.jpg"  width="400" height="400" />
+<img src="https://mkiravn.github.io/COMBO-website/assets/img/maggie.jpg"  width="400" height="400" />
 
 Maggie Steiner is a fourth year PhD Candidate in the Department of Human Genetics. Her doctoral research focuses on the development and application computational methods to study evolutionary processes in human genetics. Outside of COMBO, she serves on the Organizing Committee of Expanding Your Horizons Chicago, the Steering Committee of the UChicago Biotechnology Association, and as a Student Representative for the UChicago Medical and Biological Sciences Alumni Council.
 
