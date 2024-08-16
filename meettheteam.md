@@ -11,8 +11,7 @@ weight: 10
 ### Director
 Maggie Steiner is a fourth year PhD Candidate in the Department of Human Genetics. Her doctoral research focuses on the development and application computational methods to study evolutionary processes in human genetics. Outside of COMBO, she serves on the Organizing Committee of Expanding Your Horizons Chicago, the Steering Committee of the UChicago Biotechnology Association, and as a Student Representative for the UChicago Medical and Biological Sciences Alumni Council.
 
-![Maggie](assets/img/maggie.jpg)
-
+<img src="assets/img/maggie.jpg"  width="200" height="200">
 
 ## Jennifer Blanc
 ### Head of Outreach
