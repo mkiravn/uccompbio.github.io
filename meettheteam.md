@@ -36,7 +36,7 @@ Ethan Zhong is a PhD student in the Department of Human Genetics. His research f
 ## Liz Gibbons 
 ### Head of Scientific Content
 
-<img src="assets/img/liz.PNG"  width="400" height="400">
+<img src="assets/img/liz.JPG"  width="400" height="400">
 
 Liz is a PhD candidate in the Committee on Genetics, Genomics, and Systems Biology at the University of Chicago. She is interested in the genetic mechanisms shaping human gut microbiome ecology and host-microbe interactions. Liz is passionate about making science fun and accessible. As head of the COMBO content team, she works with other volunteers to create workshops that focus on biology, math, and computer science to illustrate new ways of solving problems.
 
