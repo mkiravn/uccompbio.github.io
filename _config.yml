@@ -21,11 +21,19 @@ author: COMBO team
 
 navbar-links:
   About:
-    About Us: "aboutus"
-    Team: "meettheteam"
-  Events: "events"
-  Workshops: "workshops"
-  Contact Us: "contact"
+    - title: "About Us"
+      url: "aboutus"
+    - title: "Team"
+      url: "meettheteam"
+  Events: 
+    - title: "Events"
+      url: "events"
+  Workshops: 
+    - title: "Workshops"
+      url: "workshops"
+  Contact Us: 
+    - title: "Contact Us"
+      url: "contact"
 
 ################
 # --- Logo --- #
@@ -138,7 +146,7 @@ navbar-var-length: false
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#FF7A7A"
-hover-col: "#FFFFFF"
+hover-col: "#888888"
 navbar-col: "#FF7A7A"
 navbar-text-col: "#404040"
 navbar-border-col: "#FFABAB"
