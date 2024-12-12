@@ -8,7 +8,7 @@ weight: 15
 
 ## Explore Our Workshops
 
-We offer hands-on computational biology workshops designed to teach fundamental concepts in genetics and bioinformatics while introducing programming basics. Whether you're an elementary student just starting out or a high schooler diving into advanced topics, there's something for everyone!
+We offer hands-on computational biology workshops designed to teach fundamental concepts in genetics and bioinformatics while introducing programming basics. Whether you're an elementary student just starting out or a high schooler diving into advanced topics, there's something for everyone! Here are a few of our most popular activities:
 
 ### 🧬 Genetic Code
 **Audience**: Elementary/Middle School  
@@ -20,6 +20,10 @@ A computational workshop teaching the principles of complex traits and genome-wi
 
 ### 🌳 Phylogenetics
 **Audience**: Elementary/Middle School  
+Explore the tree of life! In this workshop, students learn how to classify animals into the tree of life based on their characteristics and DNA. This interactive session introduces foundational concepts in evolution and phylogenetics.
+
+### 🏥 Triage
+**Audience**: Middle/High School  
 Explore the tree of life! In this workshop, students learn how to classify animals into the tree of life based on their characteristics and DNA. This interactive session introduces foundational concepts in evolution and phylogenetics.
 
 ---
